@@ -5,6 +5,3 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-swastikmohanty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-mohanty/) [![Mail Badge](https://img.shields.io/badge/-@smhac30-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/smhac30/) 
 
-[<img align="left" alt="smhac30 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="swastik-mohanty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="smhac30 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
